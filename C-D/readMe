@@ -1,0 +1,7 @@
+For part C and D in the assignment I will be using this fast fft implementation: https://github.com/fkodom/fft-conv-pytorch
+
+Please follow the installation steps (very simple, just pip install fft-conv-pytorch) if you would like to run it yourself for grading.
+
+In Part C I will run the 1D and 2D convolution from the aforementioned library and benchmark it against my implementations of 1D and 2D convolutions.
+
+In Part D, I will look into the source code and try to explain the CPU and GPU versions.
